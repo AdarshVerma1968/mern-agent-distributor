@@ -173,3 +173,17 @@ Backend: Node.js, Express.js, JWT
 Database: MongoDB
 
 Others: CSV/XLS file handling
+
+## Screenshots
+
+### Login Page
+![Login Page](https://github.com/AdarshVerma1968/mern-agent-distributor/blob/main/Screenshot%20(179).png?raw=true)
+
+### Dashboard Page
+![Dashboard Page](https://github.com/AdarshVerma1968/mern-agent-distributor/blob/main/Screenshot%20(180).png?raw=true)
+
+### Add Agent Page
+![Add Agent Page](https://github.com/AdarshVerma1968/mern-agent-distributor/blob/main/Screenshot%20(181).png?raw=true)
+
+### Upload Lists Page
+![Upload Lists Page](https://github.com/AdarshVerma1968/mern-agent-distributor/blob/main/Screenshot%20(182).png?raw=true)
