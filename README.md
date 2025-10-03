@@ -25,7 +25,22 @@ Agent Distributor is a web application built using the **MERN stack** (MongoDB, 
 3. **Lead Upload and Distribution**  
    - Upload CSV/XLS/XLSX files containing leads  
    - Automatically distribute leads among registered agents  
-   - View assigned leads per agent  
+   - View assigned leads per agent
+  
+---
+## Screenshots
+
+### Login Page
+![Login Page](https://github.com/AdarshVerma1968/mern-agent-distributor/blob/main/Screenshot%20(179).png?raw=true)
+
+### Dashboard Page
+![Dashboard Page](https://github.com/AdarshVerma1968/mern-agent-distributor/blob/main/Screenshot%20(180).png?raw=true)
+
+### Add Agent Page
+![Add Agent Page](https://github.com/AdarshVerma1968/mern-agent-distributor/blob/main/Screenshot%20(181).png?raw=true)
+
+### Upload Lists Page
+![Upload Lists Page](https://github.com/AdarshVerma1968/mern-agent-distributor/blob/main/Screenshot%20(182).png?raw=true)
 
 ---
 
@@ -64,20 +79,7 @@ mern-agent-distributer/
 │ │ └─ UploadLists.jsx
 │ └─ .env
 └─ README.md
----
-## Screenshots
 
-### Login Page
-![Login Page](https://github.com/AdarshVerma1968/mern-agent-distributor/blob/main/Screenshot%20(179).png?raw=true)
-
-### Dashboard Page
-![Dashboard Page](https://github.com/AdarshVerma1968/mern-agent-distributor/blob/main/Screenshot%20(180).png?raw=true)
-
-### Add Agent Page
-![Add Agent Page](https://github.com/AdarshVerma1968/mern-agent-distributor/blob/main/Screenshot%20(181).png?raw=true)
-
-### Upload Lists Page
-![Upload Lists Page](https://github.com/AdarshVerma1968/mern-agent-distributor/blob/main/Screenshot%20(182).png?raw=true)
 ---
 
 ## **Setup Instructions**
